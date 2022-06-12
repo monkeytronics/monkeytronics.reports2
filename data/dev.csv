@@ -1,0 +1,7 @@
+device_owner,device_id,data_type,comms_type,long,lat,locationCode,addr,suburb,city,country,room,hhi,cluster,privacy,risk,buildingType,tenure,height,direction,school,building,floor,classRoom,deployment_id
+al@monkeytronics.co.nz,412222,TH,S, , ,,20 Ashton Fitchett Drive,,,New Zealand,Bedroom 3,Wellington Well Homes,TPK-MBIE-Council,He Kainga Oranga,High, ,Kāinga Ora,,, , , , , 
+al@monkeytronics.co.nz,C000037,CD,W, , ,Wellington|NZ,20 Cave Road,Houghton Bay,Wellington,New Zealand,Lounge 2,Wellington Well Homes,cave road,High,Low, ,,,, , , , , 
+al@monkeytronics.co.nz,P000000,PM,W,174.7874431,-41.33568349999999,Wellington,Houghton Valley School,Houghton Bay,Wellington,New Zealand,,Wellington Well Homes,,None,Low, ,,,,Houghton Valley School,none,0,none,
+al@monkeytronics.co.nz,W000043,TH,W,0,0,,,,,,,,,Do Not Share,Low,,,,,,,0,,
+al@monkeytronics.co.nz,W000069,TH,W,174.7835485,-41.3407073,Wellington,20 Cave Road,Houghton Bay,Wellington,New Zealand,Lounge 2,Not Listed,,Do Not Share,Low,Detached,,,,,,0,,
+al@monkeytronics.co.nz,W000075,TH,W,0,0,,,,,,,,,Do Not Share,Low,,,,,,,0,,

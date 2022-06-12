@@ -1,0 +1,45 @@
+Package: monkeytronics.reports2
+Title: Flexdashboards For Monkeytronics
+Version: 0.0.0.9000
+Authors@R: 
+    person("Jacek", "Szanduła", , "jacek.szandula@gmail.com", role = c("aut", "cre"))
+Description: 
+	The goal of {monkeytronics.reports} is to package the code for producing flexdashboards for Monkeytronics
+License: `use_mit_license()`
+Imports: 
+    aws.s3 (>= 0.3.21),
+    checkmate,
+    data.table,
+    dplyr,
+    extrafont,
+    flexdashboard,
+    forcats,
+    formattable,
+    ggnewscale,
+    ggplot2,
+    ggpmisc,
+    hrbrthemes,
+    janitor,
+    kableExtra,
+    knitr,
+    lubridate,
+    magrittr,
+    nord,
+    paws,
+    pixiedust,
+    plotly,
+    purrr,
+    readr,
+    rlang,
+    stringi,
+    tidyr,
+    unikn
+Suggests: 
+	knitr, 
+	rmarkdown
+VignetteBuilder: 
+	knitr
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.0
